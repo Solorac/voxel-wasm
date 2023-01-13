@@ -1,0 +1,12 @@
+{
+  "name": "voxel",
+  "version": "0.1.0",
+  "files": [
+    "lib_main_bg.wasm",
+    "lib_main.js",
+    "lib_main.d.ts"
+  ],
+  "module": "lib_main.js",
+  "types": "lib_main.d.ts",
+  "sideEffects": false
+}
